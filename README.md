@@ -3,7 +3,7 @@
 ### I'm an iOS developer
 
 ## 🚀 My Skills:
-- 📱 Developing iOS applications using <img src="https://img.icons8.com/color/48/000000/ios-logo.png" width="20"/> and <img  src="https://img.icons8.com/color/48/000000/swift.png" width="20"/>
+- 📱 Developing <img src="https://img.icons8.com/color/48/000000/ios-logo.png" width="30"/> applications using <img  src="https://img.icons8.com/color/48/000000/swift.png" width="20"/> Swift and swiftUi
 - 📦 Utilizing third-party libraries and frameworks such as Alamofire, CocoaPods, and more
 - 💾 Working with databases, including Core Data and Realm
 - 🎨 Developing user interfaces using Auto Layout and Storyboards
